@@ -20,7 +20,7 @@ const Footer = () => {
                    
                 </div>
                 <div className="socialIcons">
-                <a href="https://instagram.com/utkarsh_.singh._?igshid=ZDc4ODBmNjlmNQ==" target="_blank">
+                <a href="https://www.instagram.com/utkarsh_.singh._?igsh=ZGNjOWZkYTE3MQ==" target="_blank">
                     <span className="icon">
                         <FaInstagram />
                     </span>

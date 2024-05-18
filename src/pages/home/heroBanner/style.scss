@@ -70,10 +70,10 @@
          .note {
             font-size: 10px;
             font-weight: 500;
-             margin-top: 20px;
+            
             margin-bottom: 40px;
             @include md {
-                font-size: 24px;
+                font-size: 10px;
             }
         }
         .searchInput {

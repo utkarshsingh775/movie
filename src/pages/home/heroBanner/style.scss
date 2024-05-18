@@ -62,18 +62,18 @@
         .subTitle {
             font-size: 18px;
             font-weight: 500;
-            margin-bottom: 40px;
+            margin-bottom: 10px;
             @include md {
                 font-size: 24px;
             }
         }
          .note {
-            font-size: 10px;
-            font-weight: 500;
+            font-size: 15px;
+            font-weight: 300;
             
-            margin-bottom: 40px;
+            margin-bottom: 20px;
             @include md {
-                font-size: 10px;
+                font-size: 15px;
             }
         }
         .searchInput {

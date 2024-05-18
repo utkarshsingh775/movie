@@ -45,7 +45,7 @@ const HeroBanner = () => {
                         Explore now.
                     </span>
                     <span className="note">
-                        If the website does not respond , kindly use VPN as the TMDB API used might be blocked in your country.
+                        ( If the website does not respond , kindly use VPN as the TMDB API used might be blocked in your country. )
                     </span>
                     <div className="searchInput">
                         <input
